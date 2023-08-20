@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![sampaththaranga's Stats](https://github-readme-stats.vercel.app/api?username=sampaththaranga&theme=monokai&show_icons=true&hide_border=false&count_private=true)
+<br />
+
 ![sampaththaranga's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sampaththaranga&theme=monokai&show_icons=true&hide_border=false&layout=compact)
