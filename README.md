@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: ...
 
-![sampaththaranga's Stats](https://github-readme-stats.vercel.app/api?username=sampaththaranga&theme=monokai&show_icons=true&hide_border=false&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=sampaththaranga&theme=monokai&show_icons=true&count_private=true&cache_id=1)
 
-![sampaththaranga's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sampaththaranga&theme=monokai&show_icons=true&hide_border=false&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sampaththaranga&theme=monokai&show_icons=true&layout=compact&cache_id=1)
