@@ -1,34 +1,101 @@
 # 👋 Hi, I'm Sampath Tharanga
 
-💻 Software Developer | 🌐 Web Developer | 🤖 AI Enthusiast
+💻 Software Developer | 🌐 Web Developer | 🔐 Cyber Security Enthusiast | 🤖 AI Enthusiast
+
+---
 
 ## 🚀 About Me
 
-- 🔭 Currently working on AI-powered educational platforms
-- 🌱 Learning Artificial Intelligence, Web Development, and Automation
-- 💡 Interested in Open Source, Programming, and Educational Technology
-- 📫 Reach me on GitHub: https://github.com/sampaththaranga
+- 🔭 Currently building AI-powered educational platforms
+- 🌱 Continuously learning AI, Cyber Security, Cloud Computing, and Modern .NET Development
+- 💡 Passionate about Web Development, Automation, Open Source, and Software Engineering
+- 🎯 Always exploring new technologies and solving real-world problems
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sampaththaranga&show_icons=true&theme=tokyonight)
+### Programming Languages
+- C#
+- ASP.NET
+- .NET Framework
+- .NET Core
+- VB.NET
+- JavaScript
+- TypeScript
+- PHP
+- Python
+- SQL
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sampaththaranga&layout=compact&theme=tokyonight)
+### Web Technologies
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
+- jQuery
+- AJAX
+- REST API
+- JSON
+- XML
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sampaththaranga&theme=tokyonight)
+### CMS & Frameworks
+- WordPress
+- Laravel
+- ASP.NET MVC
+- ASP.NET Web Forms
+- Razor Pages
+
+### Database
+- Microsoft SQL Server
+- MySQL
+- SQLite
+
+### Tools & Platforms
+- Visual Studio
+- Visual Studio Code
+- Git
+- GitHub
+- IIS
+- XAMPP
+- Docker
+- Postman
+
+### Cloud & Hosting
+- Microsoft Azure
+- Cloudflare
+- cPanel
+- Vercel
+- Netlify
+
+### Cyber Security
+- Web Security
+- Penetration Testing
+- Network Security
+- OWASP Top 10
+- Secure Coding
+- Linux
+
+### AI & Automation
+- ChatGPT API
+- OpenAI
+- Prompt Engineering
+- AI Automation
+- Machine Learning Basics
 
 ---
 
-## 🛠 Technologies
+## 📊 GitHub Statistics
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
 ---
+
+## 📫 Connect with Me
+
+- GitHub: https://github.com/YOUR_USERNAME
 
 ⭐ Thanks for visiting my profile!
